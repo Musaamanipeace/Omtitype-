@@ -1,0 +1,6 @@
+{
+  "name": "OmniType",
+  "description": "A technical workspace dashboard for cross-platform device management and spatial mapping.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["hardware_integration", "spatial_mapping"]
+}
